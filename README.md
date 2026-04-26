@@ -54,24 +54,29 @@ Examples of visuals:
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
+
+```bash
 Practical-Linear-Algebra-For-Data-Science/
 │── README.md
-│── Chapter_01_Introduction.ipynb
-│── Chapter_02_Vectors_Part1.ipynb
-│── Chapter_03_Vectors_Part2.ipynb
-│── Chapter_04_Vector_Applications.ipynb
-│── Chapter_05_Matrices_Part1.ipynb
-│── Chapter_06_Matrices_Part2.ipynb
-│── Chapter_07_Matrix_Applications.ipynb
-│── Chapter_08_Matrix_Inverse.ipynb
-│── Chapter_09_QR_Decomposition.ipynb
-│── Chapter_10_LU_Decomposition.ipynb
-│── Chapter_11_Least_Squares.ipynb
-│── Chapter_12_Least_Squares_Applications.ipynb
-│── Chapter_13_Eigendecomposition.ipynb
-│── Chapter_14_SVD.ipynb
-│── Chapter_15_PCA_LDA_SVD_Applications.ipynb
+│
+├── Chapter_01_Introduction.ipynb
+├── Chapter_02_Vectors_Part1.ipynb
+├── Chapter_03_Vectors_Part2.ipynb
+├── Chapter_04_Vector_Applications.ipynb
+├── Chapter_05_Matrices_Part1.ipynb
+├── Chapter_06_Matrices_Part2.ipynb
+├── Chapter_07_Matrix_Applications.ipynb
+├── Chapter_08_Matrix_Inverse.ipynb
+├── Chapter_09_QR_Decomposition.ipynb
+├── Chapter_10_LU_Decomposition.ipynb
+├── Chapter_11_Least_Squares.ipynb
+├── Chapter_12_Least_Squares_Applications.ipynb
+├── Chapter_13_Eigendecomposition.ipynb
+├── Chapter_14_SVD.ipynb
+└── Chapter_15_PCA_LDA_SVD_Applications.ipynb
+```
+
 
 ---
 
