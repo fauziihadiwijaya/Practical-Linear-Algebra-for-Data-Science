@@ -1,5 +1,7 @@
 # 🚀 Practical Linear Algebra for Data Science
 
+<img src="algebra.jpg" width="300">
+
 ## 📘 Overview
 
 This repository contains study notes, notebooks, visualizations, and Python implementations based on the book **Practical Linear Algebra for Data Science** by **Mike X. Cohen**.
